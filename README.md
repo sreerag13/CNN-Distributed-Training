@@ -18,10 +18,4 @@ To use the application please execute the following commands in the order given 
 ## Code Contributors
 
 
-- Sreerag Chandran(2022ac05086)
-- M V Deepak (2022aa05071)
-- Masilamani D (2022ac05355)
-- Nishi Chandra (2022ac05351)
-- Trilok Sachin Chittala(2022ac05072)
-
-
+- Sreerag Chandran
